@@ -1,11 +1,16 @@
 _repo: On-the-Curability-of-Certain-Forms-of-Insanity-Epilepsy-Catalepsy-and-Hysteria-in-Females_65927
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65927-h/images/cover.jpg
 creator:
   author:
     agent_name: Brown, Baker
     gutenberg_agent_id: '53554'
     url: http://www.gutenberg.org/2009/agents/53554
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65927#On-the-Curability-of-Certain-Forms-of-Insanity-Epilepsy-Catalepsy-and-Hysteria-in-Females
 gutenberg_issued: '2021-07-27'
 gutenberg_type: Text
 identifiers:
